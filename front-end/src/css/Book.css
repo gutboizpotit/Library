@@ -1,0 +1,98 @@
+.form
+.form-1,
+.form-2
+{
+    display: flex;
+    align-items: center;
+}
+
+.form-1,
+.form-2{
+    margin-left: 20px;
+}
+
+.input-des
+{
+    display: flex;
+    margin-bottom: 20px;
+    height: 200px;
+    margin-left: 20px;
+    width: 500px;
+}
+
+.input-author
+{
+    margin-left: 150px;
+}
+
+.lb-des{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.lb-author{
+    margin-left: 30px;
+}
+
+.lb-title
+{
+    margin-left: -100px;
+}
+
+.lb-date{
+    margin-left: -150px;
+}
+
+.input-page{
+    margin-left: 150px;
+
+}
+.input-date{
+    margin-right: 150px;
+}
+
+.lb-cate{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.input-cate{
+    display: flex;
+    margin-left: 20px;
+    height: 30px;
+    width: 200px;
+    margin-top: -10px;
+}
+
+.btn-upload{
+    position: absolute;
+    height: 30px;
+    width: 70px;
+    align-items: center;
+    top: 100px;
+    float: top;
+    margin-left: 200px;
+}
+
+.img-upload{
+    position: absolute;
+    margin-left: 200px;
+    top: 170px;
+    width: 250px;
+    height: 350px;
+
+}
+
+
+.btn-check{
+    float: right;
+    margin-right: 20px;
+    height: 50px;
+    width: 100px;
+}
+
+.lb-page{
+    margin-left: -100px;
+}
